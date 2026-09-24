@@ -1,4 +1,4 @@
-# Do LLMs Treat Input Consistently Across Variations? Generalization via Stability
+# Stability-Aware Generalization Objective (SAGO)
 
 
 ## Overview
