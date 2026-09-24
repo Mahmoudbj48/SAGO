@@ -1,4 +1,4 @@
-# 🎨 Styled Prompts, Shifted Behavior
+# 🎨 Stability-Aware Generalization Objective (SAGO)
 
 This project studies how natural human writing styles in prompts affect the behavior of instruction-tuned large language models (LLMs).
 
